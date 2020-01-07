@@ -1,9 +1,6 @@
 # Compiled class file
 *.class
-argsme.zip?download=1
-# Log file
-*.log
-
+args-me.json
 # BlueJ files
 *.ctxt
 
