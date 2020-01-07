@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./gradlew build --info
+
 mkdir input-dir
 mkdir output-dir
 mkdir touche-shared-task-run
