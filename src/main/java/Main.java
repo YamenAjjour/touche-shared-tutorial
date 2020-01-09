@@ -55,7 +55,7 @@ public class Main {
                 e.printStackTrace();
             }
         }
-        ResultsWriter.writeResults(results,outputPath+"results.csv");
+        ResultsWriter.writeResults(results,outputPath+"run.txt");
     }
 
 
