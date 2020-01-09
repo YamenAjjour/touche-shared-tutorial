@@ -36,7 +36,7 @@ public class Main {
         //LOGGER.info("loading dataset");
         List<Argument> arguments = DatasetParser.loadDataset(inputPath);
         //LOGGER.info("indexing arguments");
-        if(Files.exists(Paths.get("/mnt/disk1/search-engine-sample/index"))) {
+        if(!Files.exists(Paths.get("/mnt/disk1/search-engine-sample/index"))) {
             SearchEngineSample.indexArguments(arguments);
         }
         IndexSearcher searcher = SearchEngineSample.loadSearcher();

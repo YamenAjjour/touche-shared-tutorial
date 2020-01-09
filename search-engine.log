@@ -1,0 +1,315 @@
+<<<<<<< HEAD
+=======
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-01-09T13:49:01</date>
+  <millis>1578577741864</millis>
+  <sequence>42</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>createIndex</method>
+  <thread>1</thread>
+  <message>Creating Index</message>
+</record>
+<record>
+  <date>2020-01-09T13:49:05</date>
+  <millis>1578577745885</millis>
+  <sequence>43</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.000258 of the arguments current id is afd62ce-2019-04-18T16:16:13Z-00007-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:09</date>
+  <millis>1578577749614</millis>
+  <sequence>44</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.000516 of the arguments current id is 9a00b083-2019-04-18T18:09:34Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:13</date>
+  <millis>1578577753522</millis>
+  <sequence>45</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.000774 of the arguments current id is 196753f-2019-04-18T11:45:35Z-00007-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:17</date>
+  <millis>1578577757261</millis>
+  <sequence>46</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.001032 of the arguments current id is 573e6e3c-2019-04-18T19:46:40Z-00004-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:21</date>
+  <millis>1578577761027</millis>
+  <sequence>47</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.001290 of the arguments current id is 36035c76-2019-04-18T16:11:38Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:24</date>
+  <millis>1578577764905</millis>
+  <sequence>48</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.001548 of the arguments current id is 5449dfc4-2019-04-18T19:46:13Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:29</date>
+  <millis>1578577769069</millis>
+  <sequence>49</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.001806 of the arguments current id is 641b083d-2019-04-18T15:21:57Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:33</date>
+  <millis>1578577773208</millis>
+  <sequence>50</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.002063 of the arguments current id is c958fed8-2019-04-18T13:00:26Z-00003-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:38</date>
+  <millis>1578577778240</millis>
+  <sequence>51</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.002321 of the arguments current id is c82983ec-2019-04-18T16:30:25Z-00003-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:42</date>
+  <millis>1578577782576</millis>
+  <sequence>52</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.002579 of the arguments current id is bd0735e9-2019-04-18T12:35:13Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:46</date>
+  <millis>1578577786344</millis>
+  <sequence>53</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.002837 of the arguments current id is 667451b6-2019-04-18T13:25:47Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:50</date>
+  <millis>1578577790109</millis>
+  <sequence>54</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.003095 of the arguments current id is d3bf6dd4-2019-04-18T18:51:44Z-00006-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:54</date>
+  <millis>1578577794221</millis>
+  <sequence>55</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.003353 of the arguments current id is 98d1c94-2019-04-18T17:21:49Z-00005-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:49:58</date>
+  <millis>1578577798194</millis>
+  <sequence>56</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.003611 of the arguments current id is c42f2f5f-2019-04-18T17:23:19Z-00002-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:02</date>
+  <millis>1578577802603</millis>
+  <sequence>57</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.003869 of the arguments current id is bacc0b7c-2019-04-18T17:41:19Z-00003-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:07</date>
+  <millis>1578577807039</millis>
+  <sequence>58</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.004127 of the arguments current id is f9f18903-2019-04-18T11:53:46Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:11</date>
+  <millis>1578577811795</millis>
+  <sequence>59</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.004385 of the arguments current id is aa9cadbb-2019-04-18T12:36:16Z-00001-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:16</date>
+  <millis>1578577816755</millis>
+  <sequence>60</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.004643 of the arguments current id is 7fa65491-2019-04-18T11:34:20Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:25</date>
+  <millis>1578577825411</millis>
+  <sequence>61</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.004901 of the arguments current id is 28dbf82f-2019-04-18T15:34:33Z-00007-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:29</date>
+  <millis>1578577829509</millis>
+  <sequence>62</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.005159 of the arguments current id is 3d23e083-2019-04-18T19:39:01Z-00001-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:33</date>
+  <millis>1578577833445</millis>
+  <sequence>63</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.005417 of the arguments current id is beff3657-2019-04-18T17:32:10Z-00004-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:37</date>
+  <millis>1578577837571</millis>
+  <sequence>64</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.005675 of the arguments current id is 8ffb37ae-2019-04-18T17:23:04Z-00006-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:41</date>
+  <millis>1578577841700</millis>
+  <sequence>65</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.005933 of the arguments current id is 456d6b1b-2019-04-18T16:18:57Z-00001-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:45</date>
+  <millis>1578577845888</millis>
+  <sequence>66</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.006190 of the arguments current id is dee67f68-2019-04-18T14:17:37Z-00003-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:50</date>
+  <millis>1578577850016</millis>
+  <sequence>67</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.006448 of the arguments current id is 3d487e1e-2019-04-18T18:15:47Z-00006-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:54</date>
+  <millis>1578577854407</millis>
+  <sequence>68</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.006706 of the arguments current id is a8646f6a-2019-04-18T14:06:06Z-00000-000 </message>
+</record>
+<record>
+  <date>2020-01-09T13:50:59</date>
+  <millis>1578577859219</millis>
+  <sequence>69</sequence>
+  <logger>Main</logger>
+  <level>INFO</level>
+  <class>SearchEngineSample</class>
+  <method>indexArguments</method>
+  <thread>1</thread>
+  <message>Indexed 0.006964 of the arguments current id is 113fc1ab-2019-04-18T14:24:16Z-00000-000 </message>
+</record>
+</log>
+>>>>>>> 5aec2a2772e05607e05799a51ca13ad6f1819c73
