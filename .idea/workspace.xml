@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2de6d345-3e33-4b72-8603-47b6476177d0" name="Default Changelist" comment="">
+    <list default="true" id="2de6d345-3e33-4b72-8603-47b6476177d0" name="Default Changelist" comment="fixing issues">
       <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search-engine.log" beforeDir="false" afterPath="$PROJECT_DIR$/search-engine.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search-engine.log.lck" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,105 +35,6 @@
       </state>
     </system>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="537163777">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="4" />
-          <entry key="sh" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="82" />
-          <entry key="sh" value="110" />
-          <entry key="txt" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="82" />
-          <entry key="PLAIN_TEXT" value="134" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngineSample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-396">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ResultsWriter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SearchResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/run.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="112" selection-start-line="2" selection-start-column="112" selection-end-line="2" selection-end-column="112" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -157,116 +53,32 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/.gradle/gradle.properties" value="3252327953" />
-        <entry key="$PROJECT_DIR$" value="7847744058000" />
-        <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1910402634" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2706553634" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3508622719" />
-      </map>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
     </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/build.sh" />
-        <option value="$PROJECT_DIR$/run.sh" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="201" />
-    <option name="y" value="782" />
-    <option name="width" value="1705" />
-    <option name="height" value="1180" />
   </component>
   <component name="ProjectId" id="1W40tg20w9XtCrXIMfuBX6T8v0M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578386092531" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Gradle.touche-shared-task [jar]">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Information-retrieval-2019-lab" />
+      <module name="touche-shared-task_main" />
       <option name="PROGRAM_PARAMETERS" value="input-dir/ output-dir/" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -288,6 +100,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -306,6 +119,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -324,6 +138,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task" type="GradleRunConfiguration" factoryName="Gradle">
@@ -340,21 +155,22 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.touche-shared-task" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Gradle.touche-shared-task [dependencies]" />
       <item itemvalue="Gradle.touche-shared-task [jar]" />
       <item itemvalue="Gradle.touche-shared-task [testClasses]" />
+      <item itemvalue="Gradle.touche-shared-task" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.touche-shared-task [jar]" />
-        <item itemvalue="Gradle.touche-shared-task [dependencies]" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.touche-shared-task [jar]" />
         <item itemvalue="Gradle.touche-shared-task [testClasses]" />
+        <item itemvalue="Gradle.touche-shared-task [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -549,60 +365,8 @@
       <option name="project" value="LOCAL" />
       <updated>1578385327345</updated>
     </task>
-    <task id="LOCAL-00025" summary="switching building to docker container">
-      <created>1578579654535</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1578579654535</updated>
-    </task>
-    <task id="LOCAL-00026" summary="switching building to docker container">
-      <created>1578579698187</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1578579698187</updated>
-    </task>
-    <task id="LOCAL-00027" summary="fixing script parameters">
-      <created>1578579715192</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1578579715192</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
+    <option name="localTasksCounter" value="25" />
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="201" y="782" width="1705" height="1180" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.3295238" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3295238" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295238" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295238" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
@@ -617,15 +381,30 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initializing project" />
     <MESSAGE value="Print results" />
     <MESSAGE value="switching building to docker container" />
-    <MESSAGE value="fixing script parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing script parameters" />
+    <MESSAGE value="fixing issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing issues" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1095" y="388" width="1642" height="1405" key="CommitChangelistDialog2" timestamp="1578992811043">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="1095" y="388" width="1642" height="1405" key="CommitChangelistDialog2/0.25.3840.2135@0.25.3840.2135" timestamp="1578992811043" />
+    <state x="375" y="222" width="3074" height="1733" key="DiffContextDialog" timestamp="1578992751380">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="375" y="222" width="3074" height="1733" key="DiffContextDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992751380" />
+    <state x="1431" y="601" width="970" height="979" key="RollbackChangesDialog" timestamp="1578992689922">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="1431" y="601" width="970" height="979" key="RollbackChangesDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992689922" />
+    <state x="2654" y="1035" width="1131" height="673" key="git4idea.merge.GitPullDialog" timestamp="1578992698882">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="2654" y="1035" width="1131" height="673" key="git4idea.merge.GitPullDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992698882" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -633,85 +412,30 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DatasetParser.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>57</line>
-          <properties />
+          <line>52</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ResultsWriter.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ResultsWriter.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DatasetParser.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngineSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ResultsWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="112" selection-start-line="2" selection-start-column="112" selection-end-line="2" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="gradleExecuteTaskHistory">
     <option value="$PROJECT_DIR$" />
@@ -770,7 +494,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Information-retrieval-2019-lab</last-edited>
+          <last-edited>touche-shared-task_test|touche-shared-task</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
