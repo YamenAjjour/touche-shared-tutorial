@@ -9,7 +9,7 @@ then
     wget https://zenodo.org/record/3274636/files/argsme.zip?download=1 -O input-dir/args-me.zip
 fi
 
-if [ ! -e "$args_me_corpus"]
+if [ ! -e "$args_me_corpus" ]
 then
     unzip input-dir/args-me.zip -d input-dir/
 fi
