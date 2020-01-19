@@ -10,7 +10,7 @@ public class DatasetParser {
     {
         ArrayList<Argument> arguments = new ArrayList<Argument>();
         try {
-            InputStream is = new FileInputStream(inputPath+"args-me.json");
+            InputStream is = new FileInputStream(inputPath+"/args-me.json");
             String jsonTxt = IOUtils.toString(is, "UTF-8");
 
             JSONObject jsonObj = new JSONObject(jsonTxt);

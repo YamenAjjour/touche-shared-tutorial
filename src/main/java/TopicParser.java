@@ -1,8 +1,8 @@
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVParser;
-import org.apache.commons.csv.CSVRecord;
+import javax.xml.parsers.DocumentBuilder;
 import org.apache.commons.io.IOUtils;
-
+import org.w3c.dom.Document;
+import javax.xml.parsers.*;
+import org.w3c.dom.*;
 import java.io.*;
 import java.nio.file.Paths;
 import java.util.ArrayList;
@@ -15,24 +15,22 @@ public class TopicParser {
         ArrayList<Topic> topics= new ArrayList<Topic>();
 
         try {
-            InputStream inputStream = new FileInputStream(topicPath+"topics.csv");
-            StringWriter writer = new StringWriter();
-            IOUtils.copy(inputStream, writer);
-            String text = writer.toString();
-            CSVParser parser = CSVParser.parse(text, CSVFormat.RFC4180.withHeader("Topic ID","Biased","Annotator Stance","Thesis","Description","Query").withSkipHeaderRecord(true));
-            List<CSVRecord> list = parser.getRecords();
-            for (CSVRecord record : list)
-            {
+            File topicsFile = new File(topicPath+"/topics.xml");
+            DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+            DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+            Document doc = dBuilder.parse(topicsFile);
+            NodeList topicsNodes =  doc.getElementsByTagName("topic");
 
-                String topicId= record.get("Topic ID");
+            for(int i = 0; i<topicsNodes.getLength();i++)
+            {
+                Element topicElement = (Element) topicsNodes.item(i);
                 Topic topic = new Topic();
-                topic.topicId=topicId;
-                topic.text=record.get("Query");
+                topic.text= topicElement.getElementsByTagName("title").item(0).getTextContent();
+                String topicId= topicElement.getElementsByTagName("num").item(0).getTextContent();
                 LOGGER.info(String.format("reading topic %s",topic.text));
                 topics.add(topic);
             }
-
-        } catch (IOException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
 
