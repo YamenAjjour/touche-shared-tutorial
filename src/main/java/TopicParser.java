@@ -28,6 +28,7 @@ public class TopicParser {
                 topic.text= topicElement.getElementsByTagName("title").item(0).getTextContent();
                 String topicId= topicElement.getElementsByTagName("num").item(0).getTextContent();
                 LOGGER.info(String.format("reading topic %s",topic.text));
+                topic.topicId=topicId;
                 topics.add(topic);
             }
         } catch (Exception e) {
