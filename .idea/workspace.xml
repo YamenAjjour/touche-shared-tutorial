@@ -1,9 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2de6d345-3e33-4b72-8603-47b6476177d0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+    <list default="true" id="2de6d345-3e33-4b72-8603-47b6476177d0" name="Default Changelist" comment="fixing issues">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+    </list>
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,47 +47,16 @@
       </state>
     </system>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="537163777">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="4" />
-          <entry key="sh" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="82" />
-          <entry key="sh" value="110" />
-          <entry key="txt" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="82" />
-          <entry key="PLAIN_TEXT" value="134" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngineSample.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="990">
+=======
+            <state relative-caret-position="341">
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
               <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -79,9 +66,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TopicParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dump.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ResultsWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="34">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
@@ -99,8 +103,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="748">
               <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+=======
+            <state relative-caret-position="187">
+              <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,10 +127,30 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sh">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DatasetParser.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="330">
               <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+=======
+            <state relative-caret-position="68">
+              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="93" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
             </state>
           </provider>
         </entry>
@@ -129,7 +158,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
+            <state relative-caret-position="51">
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
               <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -155,37 +185,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="modificationStamps">
-      <map>
-        <entry key="$USER_HOME$/.gradle/gradle.properties" value="3252327953" />
-        <entry key="$PROJECT_DIR$" value="7847744058000" />
-        <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1910402634" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2706553634" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="3508622719" />
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/TopicParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DatasetParser.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/build.sh" />
-        <option value="$PROJECT_DIR$/run.sh" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="845" />
     <option name="y" value="632" />
     <option name="width" value="1705" />
     <option name="height" value="1180" />
+=======
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
   </component>
   <component name="ProjectId" id="1W40tg20w9XtCrXIMfuBX6T8v0M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -195,14 +218,19 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Information-retrieval-2019-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-retrieval-2019-lab" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
@@ -215,32 +243,40 @@
             <path>
               <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="Information-retrieval-2019-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-retrieval-2019-lab" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Information-retrieval-2019-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-retrieval-2019-lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Information-retrieval-2019-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-retrieval-2019-lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="information-retrieval-lab-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="information-retrieval-lab-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Information-retrieval-2019-lab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Information-retrieval-2019-lab" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -249,15 +285,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578386092531" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579470425939" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -271,10 +304,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.touche-shared-task [jar]">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Information-retrieval-2019-lab" />
+      <module name="touche-shared-task_main" />
       <option name="PROGRAM_PARAMETERS" value="input-dir/ output-dir/" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,6 +329,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -314,6 +348,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task [testClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -332,6 +367,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="touche-shared-task" type="GradleRunConfiguration" factoryName="Gradle">
@@ -348,21 +384,22 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.touche-shared-task" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.touche-shared-task" />
       <item itemvalue="Gradle.touche-shared-task [dependencies]" />
       <item itemvalue="Gradle.touche-shared-task [jar]" />
       <item itemvalue="Gradle.touche-shared-task [testClasses]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.touche-shared-task [jar]" />
-        <item itemvalue="Gradle.touche-shared-task [dependencies]" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.touche-shared-task [jar]" />
         <item itemvalue="Gradle.touche-shared-task [testClasses]" />
+        <item itemvalue="Gradle.touche-shared-task [dependencies]" />
       </list>
     </recent_temporary>
   </component>
@@ -557,27 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578385327345</updated>
     </task>
-    <task id="LOCAL-00025" summary="switching building to docker container">
-      <created>1578579654535</created>
+    <task id="LOCAL-00025" summary="switching to xml parser">
+      <created>1579468011935</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1578579654535</updated>
+      <updated>1579468011935</updated>
     </task>
-    <task id="LOCAL-00026" summary="switching building to docker container">
-      <created>1578579698187</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1578579698187</updated>
-    </task>
-    <task id="LOCAL-00027" summary="fixing script parameters">
-      <created>1578579715192</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1578579715192</updated>
-    </task>
+<<<<<<< HEAD
     <task id="LOCAL-00028" summary="fixing script parameters">
       <created>1579525037968</created>
       <option name="number" value="00028" />
@@ -592,10 +616,25 @@
     <frame x="845" y="632" width="1705" height="1180" extended-state="1" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25557566" />
+=======
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1297" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941543" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+<<<<<<< HEAD
+=======
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295238" />
@@ -604,9 +643,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3295238" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3280255" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
       <window_info anchor="bottom" id="Build" order="11" weight="0.3295238" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3295238" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -616,6 +661,12 @@
       <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -631,15 +682,31 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initializing project" />
     <MESSAGE value="Print results" />
     <MESSAGE value="switching building to docker container" />
-    <MESSAGE value="fixing script parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing script parameters" />
+    <MESSAGE value="fixing issues" />
+    <MESSAGE value="switching to xml parser" />
+    <option name="LAST_COMMIT_MESSAGE" value="switching to xml parser" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1095" y="388" width="1642" height="1405" key="CommitChangelistDialog2" timestamp="1578992811043">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="1095" y="388" width="1642" height="1405" key="CommitChangelistDialog2/0.25.3840.2135@0.25.3840.2135" timestamp="1578992811043" />
+    <state x="375" y="222" width="3074" height="1733" key="DiffContextDialog" timestamp="1578992751380">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="375" y="222" width="3074" height="1733" key="DiffContextDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992751380" />
+    <state x="1431" y="601" width="970" height="979" key="RollbackChangesDialog" timestamp="1578992689922">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="1431" y="601" width="970" height="979" key="RollbackChangesDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992689922" />
+    <state x="2654" y="1035" width="1131" height="673" key="git4idea.merge.GitPullDialog" timestamp="1578992698882">
+      <screen x="0" y="25" width="3840" height="2135" />
+    </state>
+    <state x="2654" y="1035" width="1131" height="673" key="git4idea.merge.GitPullDialog/0.25.3840.2135@0.25.3840.2135" timestamp="1578992698882" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,7 +719,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
-          <line>57</line>
+          <line>52</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -678,51 +745,74 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/dump.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SearchEngineSample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/TopicParser.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="990">
           <caret line="63" selection-start-line="63" selection-end-line="63" />
+=======
+        <state relative-caret-position="408">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DatasetParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ResultsWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="34">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="748">
           <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+=======
+        <state relative-caret-position="187">
+          <caret line="57" column="56" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sh">
+    <entry file="file://$PROJECT_DIR$/run.sh">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="330">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+=======
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.sh">
+    <entry file="file://$PROJECT_DIR$/build.sh">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="66">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+=======
+        <state relative-caret-position="323">
+          <caret line="19" column="93" selection-start-line="19" selection-start-column="93" selection-end-line="19" selection-end-column="93" />
+>>>>>>> 9f06d911ffefcd03fecca14e486dee0645884b05
         </state>
       </provider>
     </entry>
@@ -760,7 +850,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Python 3.5 interpreter library</last-edited>
+          <last-edited>Python 3.7 (clustering-effectiveness) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -789,7 +879,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

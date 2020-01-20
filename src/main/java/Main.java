@@ -55,7 +55,7 @@ public class Main {
                 e.printStackTrace();
             }
         }
-        ResultsWriter.writeResults(results,outputPath+"run.txt");
+        ResultsWriter.writeResults(results,outputPath+"/run.txt");
     }
 
 
