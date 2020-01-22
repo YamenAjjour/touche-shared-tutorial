@@ -7,7 +7,9 @@ This project is a template for the participation of touche shared task
 To run the project you should have gradle installed on the machine
 
 # Run
-To run the project execute
-./build.sh /tmp/touche-shared-task/input-dir/ /tmp/touche-shared-task/output-dir/
+To run the project without tira execute
+./build.sh
 
+To run the project on tria user the command 
+./build-tira.sh $inputDataset $outputDir
 
