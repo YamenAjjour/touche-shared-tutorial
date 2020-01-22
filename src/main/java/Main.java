@@ -40,7 +40,7 @@ public class Main {
             SearchEngineSample.indexArguments(arguments);
         }
         IndexSearcher searcher = SearchEngineSample.loadSearcher();
-        SearchResult[] results = new SearchResult[40];
+        SearchResult[] results = new SearchResult[topics.size()];
         int i = 0;
         for (Topic topic: topics)
         {
