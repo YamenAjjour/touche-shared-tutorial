@@ -10,6 +10,6 @@ To run the project you should have gradle installed on the machine
 To run the project without tira execute
 ./build.sh
 
-To run the project on tria user the command 
+To run the project on tria use the command 
 ./build-tira.sh $inputDataset $outputDir
 
