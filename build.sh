@@ -1,20 +1,31 @@
 #!/bin/bash
 
-mkdir input-dir
-mkdir output-dir
-args_me_corpus_zip=input-dir/args-me.zip
-args_me_corpus=input-dir/args-me.json
+input_dir=~/tmp/input-dir
+output_dir=~/tmp/output-dir
+mkdir "$input_dir"
+mkdir "$output_dir"
+args_me_corpus_zip="$input_dir/args-me.zip"
+args_me_corpus="$input_dir/args-me-1.0-cleaned.json"
+topics_zip="$input_dir/topics-task-1.zip"
+
 if [ ! -e "$args_me_corpus_zip" ]
 then
-    wget  https://zenodo.org/record/2839112/files/args-me.zip?download=1 -O input-dir/args-me.zip
+echo "$args_me_corpus_zip"
+    wget  https://zenodo.org/record/4139439/files/argsme-1.0-cleaned.zip?download=1 -O "$args_me_corpus_zip"
 fi
 
 if [ ! -e "$args_me_corpus" ]
 then
-    unzip input-dir/args-me.zip -d input-dir/
+    unzip "$args_me_corpus_zip" -d "$input_dir"
 fi
 
-cp /media/training-datasets/ir-lecture-task-1/touche-2020-first-subtask-2019-11-23/topics.xml input-dir/
+if [ ! -e "$topics_zip" ]
+then
+	wget https://webis.de/events/touche-21/topics-task-1.zip -O "$topics_zip"
+	unzip "$topics_zip" -d "$input_dir"
+fi
+
+
 docker build -t my-docker-image:latest -f Docker/Dockerfile .
-docker run -dit --name my-docker-container -v "$(pwd)":/tmp/touche-shared-task -v input-dir:/tmp/input-dir -v output-dir:/tmp/output-dir my-docker-image
-docker exec -it my-docker-container bash ./tmp/touche-shared-task/run.sh input-dir output-dir
+docker run --rm -ti --name my-docker-container -v "$input_dir":/tmp/input-dir -v "$output_dir":/tmp/output-dir my-docker-image
+

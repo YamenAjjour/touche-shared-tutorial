@@ -15,7 +15,7 @@ public class TopicParser {
         ArrayList<Topic> topics= new ArrayList<Topic>();
 
         try {
-            File topicsFile = new File(topicPath+"/topics.xml");
+            File topicsFile = new File(topicPath+"/topics-task-1.xml");
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.parse(topicsFile);
@@ -26,7 +26,7 @@ public class TopicParser {
                 Element topicElement = (Element) topicsNodes.item(i);
                 Topic topic = new Topic();
                 topic.text= topicElement.getElementsByTagName("title").item(0).getTextContent();
-                String topicId= topicElement.getElementsByTagName("num").item(0).getTextContent();
+                String topicId= topicElement.getElementsByTagName("number").item(0).getTextContent();
                 LOGGER.info(String.format("reading topic %s",topic.text));
                 topic.topicId=topicId;
 		LOGGER.info(String.format("reading topic id%s",topic.topicId));
